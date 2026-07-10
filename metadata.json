@@ -1,0 +1,6 @@
+{
+  "name": "Retro Auto Theft",
+  "description": "A polished 2D top-down action-driving open-world retro GTA-like city simulator. Drive, shoot, steal cars, run missions, and escape the police!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
